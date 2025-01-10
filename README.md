@@ -1,30 +1,34 @@
-👨‍💻 Ahmed I. Tariq | 🎓 Bachelors of Computing: Computer Science CO-OP @ University of Guelph (Expected Graduation: May 2027)
+👨‍💻 Ahmed I. Tariq
+🎓 Bachelors of Computing: Computer Science CO-OP @ University of Guelph (Expected Graduation: May 2027)
 
-🔍 Exploring the intersection of technology and creativity. Passionate about developing innovative solutions that make a difference. Skilled in a variety of programming languages (C, Java, Python, JavaScript, and more) and tools (Django, Pygame, Docker, Git), with a knack for designing and developing user-centric applications.
+🔍 Exploring the intersection of technology and innovation. Passionate about developing impactful solutions that solve real-world problems and improve user experiences. Skilled in programming languages like C, Java, Python, JavaScript, and tools like Django, Docker, ReactJS, MongoDB, and Git.
 
-🌐 Recent Projects:
+🌟 Recent Projects
+Inventree - Asset Management Platform
+A full-stack web application designed for efficient asset tracking and management, using React.js, Node.js, and MongoDB. Currently expanding functionality to mobile platforms with React Native.
 
-Tourism Website for Dubai: 
-- A responsive site promoting tourism.
+Real-Time Cryptocurrency and Stock Tracker Chrome Extension
+A Chrome extension that tracks live cryptocurrency and stock prices, with customizable alerts and portfolio monitoring, developed using JavaScript and HTML/CSS.
 
-Blackjack Game Application:
-- A dynamic Java-based game.
+Real-Time Messaging Web Application
+A real-time communication platform built with Node.js, Socket.IO, and React.js, offering features like multi-user chat rooms and responsive UI.
 
-Messenger Website:
-- A real-time messaging platform using JavaScript, Node.js, MongoDB, and ReactJS.
+Tourism Website for Dubai
+A responsive site promoting Dubai’s tourism, created with HTML and CSS, focusing on user-friendly design and multimedia integration.
 
-Weather Application:
-- A full-stack app for weather data retrieval.
-  
-Planetary Orbit Simulation:
-- A simulation modeling the orbital movements of planets.
+Planetary Orbit Simulation
+A simulation application modeling the orbital movements of planets, showcasing physics-based animations.
 
-📈 Driven by problem-solving and analytical thinking, with a strong foundation in data structures, algorithms, and web design. Committed to lifelong learning and collaboration.
+🧰 Technical Skills
+Languages: Python, Java, JavaScript (Node.js, ReactJS), C, HTML, CSS, SQL
+Frameworks & Libraries: Django, Pandas, React Native, Pygame
+Tools & Platforms: Power BI, Tableau, Docker, Git, Visual Studio, MongoDB
+📈 What Drives Me
+I thrive on solving complex problems, designing intuitive user-centric applications, and collaborating with teams to deliver impactful results. With a strong foundation in data structures, algorithms, and web design, I’m committed to continuous learning and leveraging technology to create meaningful solutions.
 
-🌍 Interests: Chess, volunteering, language learning, photography, and travel.
+🌍 Interests
+When I’m not coding, I enjoy chess, volunteering, language learning, photography, and travel—activities that fuel my creativity and curiosity.
 
-✉️ Let's connect! LinkedIn: [Ahmed Tariq](www.linkedin.com/in/ahmed-tariq-759435282) | Email: ahmedtariqcs@gmail.com
-<!---
-AhmedTariq17/AhmedTariq17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 Let’s Connect
+📧 Email: ahmedtariqcs@gmail.com
+🌐 [Ahmed Tariq](www.linkedin.com/in/ahmed-tariq-759435282)
