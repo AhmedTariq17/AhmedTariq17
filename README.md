@@ -31,4 +31,5 @@ When I’m not coding, I enjoy chess, volunteering, language learning, photograp
 
 🤝 Let’s Connect
 📧 Email: ahmedtariqcs@gmail.com
-🌐 [Ahmed Tariq](www.linkedin.com/in/ahmed-tariq-759435282)
+🌐 Linkedin: [Ahmed Tariq](https://www.linkedin.com/in/ahmed-tariq-759435282)
+
